@@ -22,5 +22,7 @@
   stu = Student("kriish", 12) # object 
   stu.stuc()
   ``` 
-- **reference** : used to refer to an object ex "stu" in  stu = Student("kriish", 12) 
+- **reference** : used to refer to an object ex "stu" in  `stu = Student("kriish", 12)`
+
+## PILLARS OF OOPS
   
