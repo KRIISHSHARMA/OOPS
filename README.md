@@ -47,3 +47,5 @@
     print(a*b*c) 
    ```
   - ***operator overloading** : a specific case of polymorphism, where different operators have different implementations depending on their arguments
+
+- **INHERTIANCE** : 
