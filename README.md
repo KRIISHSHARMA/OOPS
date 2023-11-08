@@ -39,7 +39,11 @@
   - ***protected*** : accessible within class or child class
   - ***public*** : can be used by the object or inhereted class
 - **POLYMORPHISM** : utilizing an item for multiple task
-  - ***method overloading** : same method   
-  
-
-   
+  - ***method overloading** : same method name different parameters
+   ``` bash
+   def product(a,b):
+     print(a*b)
+   def product(a,b,c):
+    print(a*b*c) 
+   ```
+  - ***operator overloading** : a specific case of polymorphism, where different operators have different implementations depending on their arguments
